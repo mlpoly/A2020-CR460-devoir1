@@ -1,4 +1,4 @@
-# Devoir 1
+# Devoir 1 - 2e tentative
 ## Énoncé
 
 À partir de GitHub, vous copierez le [repository](https://github.com/matbilodeau/A2020-CR460-devoir1)
